@@ -1,2 +1,4 @@
 # hello-world
-This is y first Git Repository
+
+Hey, I am trying to make my first commit on the new branch 'readme-edits'
+Hope this goes well
